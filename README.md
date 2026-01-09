@@ -1,5 +1,16 @@
-# 💫 About Me:Hi I'm Raj Kiran Dwivedi
-AI-Powered camera security system
+Hi 👋, I'm Raj Kiran Dwivedi
+
+A passionate Software Engineer || DevOps Engineer || Kafka Admin from India
+
+Email Me 👉 ✉️ 31411cse@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: AI-Powered camera security system
+🌱 I’m currently learning: Kotlin Language
+🤔 I’m looking for help with: Your project here
+📫 How to reach me: 31411cse@gmail.com
+😄 Pronouns: aj
+⚡ Fun fact: I Love Tech and Tech Love Me
+
 
 
 ## 🌐 Socials:
