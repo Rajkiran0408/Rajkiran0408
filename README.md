@@ -1,15 +1,15 @@
-Hi 👋, I'm Raj Kiran Dwivedi
+# Hi, I'm Raj Kiran Dwivedi
+**A passionate Software Engineer**
 
-A passionate Software Engineer || DevOps Engineer || Kafka Admin from India
+Email Me 👉 ✉️ **31411cse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Email Me 👉 ✉️ 31411cse@gmail.com For Collaboration/Project or Anything Else. 😊😊
+- 🔭 **I’m currently working on:** AI-Powered Camera Security System 
+- 🌱 **I’m currently learning:** Kotlin Language
+- 🤔 **I’m looking for help with:** Your project here
+- 📫 **How to reach me:** 31411cse@gmail.com
+- 😄 **Pronouns:** Raj
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-🔭 I’m currently working on: AI-Powered camera security system
-🌱 I’m currently learning: Kotlin Language
-🤔 I’m looking for help with: Your project here
-📫 How to reach me: 31411cse@gmail.com
-😄 Pronouns: aj
-⚡ Fun fact: I Love Tech and Tech Love Me
 
 
 
@@ -25,6 +25,12 @@ Email Me 👉 ✉️ 31411cse@gmail.com For Collaboration/Project or Anything El
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajkiran0408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
